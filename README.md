@@ -1,2 +1,2 @@
 # ethancooperdev
-The repository for the website ethancooper [dot] dev.
+The repository for the website ethancooper [dot] dev. Cool
