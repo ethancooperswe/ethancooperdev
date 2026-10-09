@@ -1,11 +1,17 @@
 :root {
-    color-scheme: light dark;
     
+}
+
+html.dark-mode {
+    filter: invert(100%);
 }
 body {
     background-color: #eeeeee;
     margin: 0;
 }
+
+
+
 header {
     background-color: white;
     margin: 0;
